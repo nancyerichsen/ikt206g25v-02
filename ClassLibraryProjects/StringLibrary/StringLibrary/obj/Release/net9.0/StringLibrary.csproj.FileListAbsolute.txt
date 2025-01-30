@@ -1,0 +1,11 @@
+C:\Users\nancy\ClassLibraryProjects\StringLibrary\StringLibrary\bin\Release\net9.0\StringLibrary.deps.json
+C:\Users\nancy\ClassLibraryProjects\StringLibrary\StringLibrary\bin\Release\net9.0\StringLibrary.dll
+C:\Users\nancy\ClassLibraryProjects\StringLibrary\StringLibrary\bin\Release\net9.0\StringLibrary.pdb
+C:\Users\nancy\ClassLibraryProjects\StringLibrary\StringLibrary\obj\Release\net9.0\StringLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nancy\ClassLibraryProjects\StringLibrary\StringLibrary\obj\Release\net9.0\StringLibrary.AssemblyInfoInputs.cache
+C:\Users\nancy\ClassLibraryProjects\StringLibrary\StringLibrary\obj\Release\net9.0\StringLibrary.AssemblyInfo.cs
+C:\Users\nancy\ClassLibraryProjects\StringLibrary\StringLibrary\obj\Release\net9.0\StringLibrary.csproj.CoreCompileInputs.cache
+C:\Users\nancy\ClassLibraryProjects\StringLibrary\StringLibrary\obj\Release\net9.0\StringLibrary.dll
+C:\Users\nancy\ClassLibraryProjects\StringLibrary\StringLibrary\obj\Release\net9.0\refint\StringLibrary.dll
+C:\Users\nancy\ClassLibraryProjects\StringLibrary\StringLibrary\obj\Release\net9.0\StringLibrary.pdb
+C:\Users\nancy\ClassLibraryProjects\StringLibrary\StringLibrary\obj\Release\net9.0\ref\StringLibrary.dll

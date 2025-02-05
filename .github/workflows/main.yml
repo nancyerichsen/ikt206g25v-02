@@ -38,5 +38,5 @@ jobs:
       - name: Restore dependencies
         run: dotnet restore StringLibrary/StringLibraryTest/StringLibraryTest.csproj 
       - name: Run tests
-        run: dotnet test StringLibrary/StringLibraryTest/StringLibraryTest.csproj --configuration
+        run: dotnet test StringLibrary/StringLibraryTest/StringLibraryTest.csproj --configuration Release
 

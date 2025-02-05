@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nancy\\ClassLibraryProjects\\StringLibrary\\ShowCase\\ShowCase.csproj": {}
+    "C:\\Users\\nancy\\UiA\\ikt206g25v-02\\StringLibrary\\ShowCase\\ShowCase.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nancy\\ClassLibraryProjects\\StringLibrary\\ShowCase\\ShowCase.csproj": {
+    "C:\\Users\\nancy\\UiA\\ikt206g25v-02\\StringLibrary\\ShowCase\\ShowCase.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nancy\\ClassLibraryProjects\\StringLibrary\\ShowCase\\ShowCase.csproj",
+        "projectUniqueName": "C:\\Users\\nancy\\UiA\\ikt206g25v-02\\StringLibrary\\ShowCase\\ShowCase.csproj",
         "projectName": "ShowCase",
-        "projectPath": "C:\\Users\\nancy\\ClassLibraryProjects\\StringLibrary\\ShowCase\\ShowCase.csproj",
+        "projectPath": "C:\\Users\\nancy\\UiA\\ikt206g25v-02\\StringLibrary\\ShowCase\\ShowCase.csproj",
         "packagesPath": "C:\\Users\\nancy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nancy\\ClassLibraryProjects\\StringLibrary\\ShowCase\\obj\\",
+        "outputPath": "C:\\Users\\nancy\\UiA\\ikt206g25v-02\\StringLibrary\\ShowCase\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nancy\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\nancy\\ClassLibraryProjects\\StringLibrary\\StringLibrary\\StringLibrary.csproj": {
-                "projectPath": "C:\\Users\\nancy\\ClassLibraryProjects\\StringLibrary\\StringLibrary\\StringLibrary.csproj"
+              "C:\\Users\\nancy\\UiA\\ikt206g25v-02\\StringLibrary\\StringLibrary\\StringLibrary.csproj": {
+                "projectPath": "C:\\Users\\nancy\\UiA\\ikt206g25v-02\\StringLibrary\\StringLibrary\\StringLibrary.csproj"
               }
             }
           }
@@ -67,14 +67,14 @@
         }
       }
     },
-    "C:\\Users\\nancy\\ClassLibraryProjects\\StringLibrary\\StringLibrary\\StringLibrary.csproj": {
+    "C:\\Users\\nancy\\UiA\\ikt206g25v-02\\StringLibrary\\StringLibrary\\StringLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nancy\\ClassLibraryProjects\\StringLibrary\\StringLibrary\\StringLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\nancy\\UiA\\ikt206g25v-02\\StringLibrary\\StringLibrary\\StringLibrary.csproj",
         "projectName": "StringLibrary",
-        "projectPath": "C:\\Users\\nancy\\ClassLibraryProjects\\StringLibrary\\StringLibrary\\StringLibrary.csproj",
+        "projectPath": "C:\\Users\\nancy\\UiA\\ikt206g25v-02\\StringLibrary\\StringLibrary\\StringLibrary.csproj",
         "packagesPath": "C:\\Users\\nancy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nancy\\ClassLibraryProjects\\StringLibrary\\StringLibrary\\obj\\",
+        "outputPath": "C:\\Users\\nancy\\UiA\\ikt206g25v-02\\StringLibrary\\StringLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nancy\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vMmq3D04VO8=",
+  "dgSpecHash": "3zofeBXGSrw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\nancy\\ClassLibraryProjects\\StringLibrary\\StringLibraryTest\\StringLibraryTest.csproj",
+  "projectFilePath": "C:\\Users\\nancy\\UiA\\ikt206g25v-02\\StringLibrary\\StringLibraryTest\\StringLibraryTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nancy\\.nuget\\packages\\microsoft.applicationinsights\\2.22.0\\microsoft.applicationinsights.2.22.0.nupkg.sha512",
     "C:\\Users\\nancy\\.nuget\\packages\\microsoft.codecoverage\\17.11.1\\microsoft.codecoverage.17.11.1.nupkg.sha512",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nancy\\ClassLibraryProjects\\StringLibrary\\StringLibrary\\StringLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\nancy\\UiA\\ikt206g25v-02\\StringLibrary\\StringLibrary\\StringLibrary.csproj",
       "projectName": "StringLibrary",
-      "projectPath": "C:\\Users\\nancy\\ClassLibraryProjects\\StringLibrary\\StringLibrary\\StringLibrary.csproj",
+      "projectPath": "C:\\Users\\nancy\\UiA\\ikt206g25v-02\\StringLibrary\\StringLibrary\\StringLibrary.csproj",
       "packagesPath": "C:\\Users\\nancy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nancy\\ClassLibraryProjects\\StringLibrary\\StringLibrary\\obj\\",
+      "outputPath": "C:\\Users\\nancy\\UiA\\ikt206g25v-02\\StringLibrary\\StringLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nancy\\AppData\\Roaming\\NuGet\\NuGet.Config"
